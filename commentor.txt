@@ -1,0 +1,5 @@
+-- Bu bir çarpma işlemi
+
+fonk multiply a b:{
+        dondur a*b
+}knof

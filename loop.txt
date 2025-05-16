@@ -1,0 +1,3 @@
+dongu x > 1 iken {
+    eger x / 2 ise x <- 5
+} neki

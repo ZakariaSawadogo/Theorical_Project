@@ -1,0 +1,7 @@
+fonk oyuncuCizdir x y :{
+eger tus_basildi TUS_YUKARI ise oyuncuY + 5
+eger tus_basildi TUS_ASAGI ise oyuncuY - 5
+eger tus_basildi TUS_SOLA ise oyuncuX -  5
+eger tus_basildi TUS_SAGA ise oyuncuY +  5
+}knof
+oyuncuCizdir oyuncuX oyuncuY
