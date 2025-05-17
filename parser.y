@@ -117,7 +117,7 @@ tus_tusu:
 %%
 
 int main(int argc, char **argv) {
-    printf("=== Programme de dessin ===\n");
+    printf("=== Çizim Program ===\n");
     if (argc > 1) {
          yyin = fopen(argv[1], "r");
          if (!yyin) {
